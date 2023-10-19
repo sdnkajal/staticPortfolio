@@ -1,0 +1,46 @@
+[
+    {
+        "designation":"senior graphic design specialist",
+        "duration":"2019 - Present",
+        "company":"Experion, New York, NY",
+        "jobDescription": [
+            "Lead in the design, development, and implementation of the graphic, layout, and production communication materials",
+            "Delegate tasks to the 7 members of the design team and provide counsel on all aspects of the project.",
+            "Supervise the assessment of all graphic materials in order to ensure quality and accuracy of the design",
+            "Oversee the efficient use of production project budgets ranging from $2,000 - $25,000"
+        ]
+    },
+    {
+        "designation":"graphic design specialist",
+        "duration":"2017 - 2018",
+        "company":"Stepping Stone Advertising, New York, NY",
+        "jobDescription": [
+            "Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).",
+            "Managed up to 5 projects or tasks at a given time while under pressure",
+            "Recommended and consulted with clients on the most appropriate graphic design",
+            "Created 4+ design presentations and proposals a month for clients and account managers"
+        ]
+    },
+    {
+        "designation":"graphic designer",
+        "duration":"2012 - 2016",
+        "company":"Graphic Design HUB, New York, NY",
+        "jobDescription": [
+            "Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).",
+            "Managed up to 5 projects or tasks at a given time while under pressure",
+            "Recommended and consulted with clients on the most appropriate graphic design",
+            "Created 4+ design presentations and proposals a month for clients and account managers"
+        ]
+    },
+    {
+        "designation":"jr. graphic and web developer",
+        "duration":"2009 - 2011",
+        "company":"Graphic2Codeing, New York, NY",
+        "jobDescription": [
+            "Developed numerous marketing programs (logos, brochures,infographics, presentations, and advertisements).",
+            "Managed up to 5 projects or tasks at a given time while under pressure",
+            "Recommended and consulted with clients on the most appropriate graphic design",
+            "Created 4+ design presentations and proposals a month for clients and account managers"
+        ]
+    }
+]

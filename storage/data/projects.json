@@ -1,0 +1,146 @@
+[
+    {
+        "id":"1",
+        "filterText": "filter-app",
+        "category": "Web Design",
+        "client":"ASU Company",
+        "projectDate":"01 March, 2020",
+        "projectUrl":"www.example.com",
+        "projectHeader":"Project 01",
+        "projectDetails":"Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.",
+        "image": "assets/img/portfolio/portfolio-1.jpg",
+        "images":[
+            "assets/img/portfolio/portfolio-details-1.jpg",
+            "assets/img/portfolio/portfolio-details-2.jpg",
+            "assets/img/portfolio/portfolio-details-3.jpg"
+        ]
+    },
+    {
+        "id":"2",
+        "filterText": "filter-web",
+        "category": "Web Design",
+        "client":"ABC Company",
+        "projectDate":"01 March, 2020",
+        "projectUrl":"www.example.com",
+        "projectHeader":"Project 02",
+        "projectDetails":"Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.",
+        "image": "assets/img/portfolio/portfolio-2.jpg",
+        "images":[
+            "assets/img/portfolio/portfolio-details-1.jpg",
+            "assets/img/portfolio/portfolio-details-2.jpg",
+            "assets/img/portfolio/portfolio-details-3.jpg"
+        ]
+    },
+    {
+        "id":"3",
+        "filterText": "filter-card",
+        "category": "Web Design",
+        "client":"Niky Company",
+        "projectDate":"01 March, 2020",
+        "projectUrl":"www.example.com",
+        "projectHeader":"Project 03",
+        "projectDetails":"Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.",
+        "image": "assets/img/portfolio/portfolio-3.jpg",
+        "images":[
+            "assets/img/portfolio/portfolio-details-1.jpg",
+            "assets/img/portfolio/portfolio-details-2.jpg",
+            "assets/img/portfolio/portfolio-details-3.jpg"
+        ]
+    },
+    {
+        "id":"4",
+        "filterText": "filter-card",
+        "category": "Web Design",
+        "client":"Taku Company",
+        "projectDate":"01 March, 2020",
+        "projectUrl":"www.example.com",
+        "projectHeader":"Project 04",
+        "projectDetails":"Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.",
+        "image": "assets/img/portfolio/portfolio-4.jpg",
+        "images":[
+            "assets/img/portfolio/portfolio-details-1.jpg",
+            "assets/img/portfolio/portfolio-details-2.jpg",
+            "assets/img/portfolio/portfolio-details-3.jpg"
+        ]
+    },
+    {
+        "id":"5",
+        "filterText": "filter-app",
+        "category": "Web Design",
+        "client":"Rahu Company",
+        "projectDate":"01 March, 2020",
+        "projectUrl":"www.example.com",
+        "projectHeader":"Project 05",
+        "projectDetails":"Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.",
+        "image": "assets/img/portfolio/portfolio-5.jpg",
+        "images":[
+            "assets/img/portfolio/portfolio-details-1.jpg",
+            "assets/img/portfolio/portfolio-details-2.jpg",
+            "assets/img/portfolio/portfolio-details-3.jpg"
+        ]
+    },
+    {
+        "id":"6",
+        "filterText": "filter-web",
+        "category": "Web Design",
+        "client":"Aqr Company",
+        "projectDate":"01 March, 2020",
+        "projectUrl":"www.example.com",
+        "projectHeader":"Project 06",
+        "projectDetails":"Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.",
+        "image": "assets/img/portfolio/portfolio-6.jpg",
+        "images":[
+            "assets/img/portfolio/portfolio-details-1.jpg",
+            "assets/img/portfolio/portfolio-details-2.jpg",
+            "assets/img/portfolio/portfolio-details-3.jpg"
+        ]
+    },
+    {
+        "id":"7",
+        "filterText": "filter-app",
+        "category": "Web Design",
+        "client":"AniSU Company",
+        "projectDate":"01 March, 2020",
+        "projectUrl":"www.example.com",
+        "projectHeader":"Project 07",
+        "projectDetails":"Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.",
+        "image": "assets/img/portfolio/portfolio-7.jpg",
+        "images":[
+            "assets/img/portfolio/portfolio-details-1.jpg",
+            "assets/img/portfolio/portfolio-details-2.jpg",
+            "assets/img/portfolio/portfolio-details-3.jpg"
+        ]
+    },
+    {
+        "id":"8",
+        "filterText": "filter-web",
+        "category": "Web Design",
+        "client":"GIGA Company",
+        "projectDate":"01 March, 2020",
+        "projectUrl":"www.example.com",
+        "projectHeader":"Project 08",
+        "projectDetails":"Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.",
+        "image": "assets/img/portfolio/portfolio-8.jpg",
+        "images":[
+            "assets/img/portfolio/portfolio-details-1.jpg",
+            "assets/img/portfolio/portfolio-details-2.jpg",
+            "assets/img/portfolio/portfolio-details-3.jpg"
+        ]
+    },
+    {
+        "id":"9",
+        "filterText": "filter-app",
+        "category": "Web Design",
+        "client":"GIGA Company",
+        "projectDate":"01 March, 2020",
+        "projectUrl":"www.example.com",
+        "projectHeader":"Project 09",
+        "projectDetails":"Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.",
+        "image": "assets/img/portfolio/portfolio-9.jpg",
+        "images":[
+            "assets/img/portfolio/portfolio-details-1.jpg",
+            "assets/img/portfolio/portfolio-details-2.jpg",
+            "assets/img/portfolio/portfolio-details-3.jpg"
+        ]
+    }
+]

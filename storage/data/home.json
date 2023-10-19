@@ -1,0 +1,54 @@
+
+    {
+        "fullName": "Alex Smith",
+        "image":"assets/img/profile-img.jpg",
+        "about": "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.",
+        "uiuxFirstPara": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        "uiuxSecondPara": "Officiis eligendi itaque labore et dolorum mollitia officiis optio vero. Quisquam sunt adipisci omnis et ut. Nulla accusantium dolor incidunt officia tempore. Et eius omnis. Cupiditate ut dicta maxime officiis quidem quia. Sed et consectetur qui quia repellendus itaque neque. Aliquid amet quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis culpa magni laudantium dolores.",
+        "birthday":"01 May 1990",
+        "website":"www.example.com",
+        "phone":"+123 456 7890",
+        "city":"New York, USA",
+        "age":"34",
+        "degree":"Master",
+        "phEmailOne":"email@example.com",
+        "freelance":"Available",
+        "factsText": "Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.",
+        "facts":{
+            "clients": {
+                "icon": "bi-emoji-smile",
+                "totalNumber": "232",
+                "boldText":"Happy Clients",
+                "text":"consequuntur quae"
+            },
+            "projects": {
+                "icon": "bi-journal-richtext",
+                "totalNumber": "232",
+                "boldText":"Projects",
+                "text":"adipisci atque cum quia aut"
+            },
+            "supports": {
+                "icon": "bi-headset",
+                "totalNumber": "1453",
+                "boldText":"Hours Of Support",
+                "text":"aut commodi quaerat"
+            },
+            "wrokers": {
+                "icon": "bi-people",
+                "totalNumber": "32",
+                "boldText":"Hard Workers",
+                "text":"rerum asperiores dolor"
+            }
+
+        },
+        "skillText":"Magnam dolores commodi suscipit. Necessitatibus eius consequatur ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea. Quia fugiat sit in iste officiis commodi quidem hic quas.",
+        "skills": {
+            "html" : {"html": "95"},
+            "css" : {"css": "85"},
+            "javascript" : {"javascript": "65"},
+            "php" : {"php": "80"},
+            "laravel" : {"laravel": "70"},
+            "photoshop" : {"photoshop": "60"}
+        }
+    }
+
